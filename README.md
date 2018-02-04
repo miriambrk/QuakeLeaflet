@@ -15,3 +15,4 @@ Javascript, HTML, CSS, Leaflet, D3
 
 Earthquake data provided by calling USGS APIs.
 
+![earthquakes](earthquake.png "Earthquakes")
